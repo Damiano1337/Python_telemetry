@@ -1,0 +1,1 @@
+ADMIN_PASSWORD = "haslo123"  # 🛑 Tylko na potrzeby projektu!
